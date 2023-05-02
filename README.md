@@ -5,3 +5,8 @@ The data was extracted in march/23 from: https://www.ribeiraopreto.sp.gov.br/adm
 The visuals were made using the free version of Flourish: https://app.flourish.studio/
 
 The visualization page: https://viniciusfjacinto.github.io/dviz_rp/
+
+# Results
+![image](https://user-images.githubusercontent.com/87664450/235805593-383d1b60-1749-496a-8bf3-a80b9d5135b0.png)
+![image](https://user-images.githubusercontent.com/87664450/235805623-cefbabe0-9d0f-4eb1-b7bd-a58d33a08c55.png)
+![image](https://user-images.githubusercontent.com/87664450/235805957-c9617bd7-7df7-4f8f-96a2-c928f700044c.png)
